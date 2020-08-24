@@ -1,0 +1,3 @@
+project_name: test_project
+master_ip: localhost
+master_port: 50052
